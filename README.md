@@ -2,4 +2,4 @@
 
 - Install npm
 - cd client / npm start
-- cd server / nodemone index.js
+- cd server / nodemon index.js
